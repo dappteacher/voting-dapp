@@ -1,7 +1,7 @@
-# Simple Voting DApp
+# Voting DApp
 
 ## Overview
-SimpleVotingDApp is a decentralized application (DApp) that allows users to vote securely on a blockchain network. This project is built using Solidity for smart contracts and integrates with a web-based frontend for user interaction.
+voting-dapp is a decentralized application (DApp) that allows users to vote securely on a blockchain network. This project is built using Solidity for smart contracts and integrates with a web-based frontend for user interaction.
 
 ## Features
 - Smart contract-based voting system
@@ -26,8 +26,8 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/dappteacher/SimpleVotingDapp.git
-   cd SimpleVotingDapp
+   git clone https://github.com/dappteacher/voting-dapp.git
+   cd voting-dapp
    ```
 2. Install dependencies:
    ```sh
@@ -81,6 +81,10 @@ Contributions are welcome! Please fork the repository, make changes, and submit 
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For questions or suggestions, feel free to reach out via GitHub issues or connect on [LinkedIn](https://www.linkedin.com/in/dappteacher/).
+## Connect
 
+* Medium: https://medium.com/@dappteacher
+* LinkedIn : https://www.linkedin.com/in/dappteacher
+* GitHub : https://www.github.com/dappteacher
+
+---
