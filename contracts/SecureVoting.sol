@@ -57,10 +57,3 @@ contract SecureVoting is ReentrancyGuard {
         _;
     }
 }
-
-
-// Deployed contract address in Sepolia:
-// 0x592c9e09497cc2cccbefc975466008be4d6d9bbd
-
-// Transaction address:
-// https://sepolia.etherscan.io/tx/0x50d7cb202e3f6802ecdbcf4a75fe089c06cec26ac2291b034e698e5d3fb61496
